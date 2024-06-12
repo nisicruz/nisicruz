@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on open-source AI projects, machine learning competitions, and web development projects.
 - 📫 How to reach me: [Email](nisiryancruz@gmail.com) | [LinkedIn](www.linkedin.com/in/nisi-ryan-cruz-69922212b
 ) | [Twitter](https://twitter.com/yourprofile)
-- 😄 Pronouns: [We/Him]
+- 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I love coding, and I’m passionate about leveraging technology to solve real-world problems!
 
